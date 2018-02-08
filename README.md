@@ -1,6 +1,5 @@
 # Sentinel_2
-Some scripts to download, unzip and process Sentinel-2 data
-
+Some scripts to download, unzip and process multiple Sentinel-2 datasets at once
 
 1. DOWNLOADING Sentinel 2 data in Level2a (Reflectance Bottom of Atmopsphere)
 DownloadS2.py + map.geojson (example json file)
